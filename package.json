@@ -4,7 +4,7 @@
   "author": "AtomLinter",
   "version": "0.3.0",
   "description": "A Base Linter with Cow Powers",
-  "repository": "https://github.com/AtomLinter/linter-plus",
+  "repository": "https://github.com/AtomLinterPlus/linter-plus",
   "license": "MIT",
   "scripts": {
     "lint": "coffeelint lib coffeelint.json"
