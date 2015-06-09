@@ -12,7 +12,7 @@ apm install linter-plus
 
 #### Registering a Linter
 
-Have a look at [Linter-API](https://github.com/AtomLinter/linter-plus/wiki/Linter-API) in the wiki.
+Have a look at [Linter-API](https://github.com/AtomLinterPlus/linter-plus/wiki/Linter-API) in the wiki.
 
 #### Development
 
